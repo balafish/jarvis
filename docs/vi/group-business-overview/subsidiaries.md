@@ -50,7 +50,7 @@ AWS, Azure, Google Cloud, Alibaba Cloud, Akamai, Cloudflare, Fastly, Huawei, Ora
 #### Thông Tin Cơ Bản
 - **Thành lập:** 2023
 - **Địa điểm:** Hà Nội, Việt Nam (Không có văn phòng tại Đài Loan)
-- **Quy mô hiện tại:** ~6 người
+- **Quy mô hiện tại:** ~8 người
 - **Quy mô mục tiêu:** 15-20 người (cuối năm 2026)
 - **Vị trí:** Công ty R&D độc lập
 

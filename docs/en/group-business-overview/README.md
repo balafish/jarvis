@@ -34,6 +34,8 @@ Unicorn International Investment Co., Ltd. (Holding Company)
     │
     ├── Tomo (AI Startup)
     │
+    ├── Sky-Net Digital (IT Solutions)
+    │
     ├── Ariel (Game Publishing)
     │
     ├── Yu Yang Digital (FinTech)
@@ -53,6 +55,7 @@ Unicorn International Investment Co., Ltd. (Holding Company)
 | **Ariel** | Game Publishing | RO, One Punch Man, etc. |
 | **Yu Yang Digital** | FinTech | Migrant Worker Cross-border Remittance |
 | **Kaiyin Information** | Digital Point Card Sales | Game Virtual Point Cards |
+| **Sky-Net Digital** | IT Solutions | High-concurrency Systems, E-commerce, Entertainment |
 
 ---
 

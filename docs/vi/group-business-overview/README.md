@@ -34,6 +34,8 @@ Công Ty TNHH Đầu Tư Quốc Tế Unicorn (Công Ty Mẹ)
     │
     ├── Tomo (Startup AI)
     │
+    ├── Sky-Net Digital (Giải pháp CNTT)
+    │
     ├── Ariel (Phát hành Game)
     │
     ├── Yu Yang Digital (FinTech)
@@ -53,6 +55,7 @@ Công Ty TNHH Đầu Tư Quốc Tế Unicorn (Công Ty Mẹ)
 | **Ariel** | Phát hành Game | RO, One Punch Man, v.v. |
 | **Yu Yang Digital** | FinTech | Chuyển tiền xuyên biên giới cho lao động di cư |
 | **Kaiyin Information** | Bán Thẻ Điểm Số | Thẻ điểm ảo game |
+| **Sky-Net Digital** | Giải pháp CNTT | Hệ thống cao tải, Thương mại điện tử, Giải trí |
 
 ---
 

@@ -50,7 +50,7 @@ AWS, Azure, Google Cloud, Alibaba Cloud, Akamai, Cloudflare, Fastly, Huawei, Ora
 #### Basic Information
 - **Founded:** 2023
 - **Location:** Hanoi, Vietnam (No Taiwan office)
-- **Current Size:** ~6 people
+- **Current Size:** ~8 people
 - **Target Size:** 15-20 people (by end of 2026)
 - **Position:** Independent R&D Company
 
