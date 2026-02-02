@@ -1,8 +1,8 @@
-# Business Unit Description
+# Business Unit Descriptions
 
-## Group Business Areas Overview
+## Group Business Domain Overview
 
-Unicorn International Investment subsidiaries cover multiple business areas:
+Subsidiaries under Unicorn International Investment cover multiple business domains:
 
 ```
 Unicorn International Investment Co., Ltd.
@@ -21,7 +21,7 @@ Unicorn International Investment Co., Ltd.
 │
 ├── Gaming Industry
 │   ├── Ariel (Publishing)
-│   └── Kaiyin Information (Points Sales)
+│   └── Kaiyin Information (Point Card Sales)
 │
 └── FinTech
     └── Yu Yang Digital
@@ -29,15 +29,15 @@ Unicorn International Investment Co., Ltd.
 
 ---
 
-## Business Area Descriptions
+## Business Domain Descriptions
 
-### Cloud Services
+### Cloud Services Domain
 
 #### Siraya Technologies
 
-**Unit Overview**
+**Unit Introduction**
 
-Siraya is the group's cloud services core, providing comprehensive cloud computing, edge delivery, and security services. With the slogan "Built for the Cloud, Secure with AI", it helps enterprises accelerate digital transformation.
+Siraya is the group's cloud services core, providing comprehensive cloud computing, edge delivery, and security services. With the tagline "Built for the Cloud, Secure with AI," it helps enterprises accelerate digital transformation.
 
 **Main Responsibilities**
 1. Provide cloud computing services (Cloud, Co-Location, VPS)
@@ -58,40 +58,40 @@ Siraya is the group's cloud services core, providing comprehensive cloud computi
 
 ---
 
-### Software Development
+### Software Development Domain
 
 #### Jarvis
 
-**Unit Overview**
+**Unit Introduction**
 
-Jarvis is the group's software R&D company, located in Hanoi, Vietnam. Currently mainly developing customer management platform and security products for Siraya. As a local Vietnamese company, it has Asian emerging market advantages.
+Jarvis is the group's software R&D company, located in Hanoi, Vietnam, currently mainly developing customer management platform and security products for Siraya. As a local Vietnam company, it has emerging Asian market advantages.
 
 **Main Responsibilities**
-1. Develop Siraya customer portal management system
-2. Develop anti-hijacking products
+1. Develop Siraya customer portal system
+2. Develop anti-hijacking product
 3. Provide software R&D services
 
 **Organization Structure**
-- Current staff: Approximately 6 people
-- Target staff: 15-20 people (end of 2026)
+- Current headcount: ~6 people
+- Target headcount: 15-20 people (by end of 2026)
 - Departments: Development, Project Management, Administration
 
 **Main Business Items**
 
-| Business Item | Description | Service Target |
-|---------------|-------------|----------------|
-| Customer Portal Management System | Integrate cloud services, CDN, data monitoring, account management | Siraya and its customers |
+| Business Item | Description | Served To |
+|---------------|-------------|-----------|
+| Customer Portal System | Integrated cloud services, CDN, data monitoring, account management | Siraya and its customers |
 | Anti-Hijacking Product | Anti-Hijacking Solution | Siraya |
 
 ---
 
-### iGaming Industry
+### iGaming Industry Domain
 
 #### Katsumitec
 
-**Unit Overview**
+**Unit Introduction**
 
-Katsumitec focuses on software R&D for the iGaming (online gaming/gambling) industry, aiming to build Asia's leading information technology solutions team.
+Katsumitec focuses on software R&D for the iGaming (online gaming/gambling) industry, with the goal of building Asia's #1 IT solutions team.
 
 **Main Responsibilities**
 1. Develop white-label systems
@@ -103,19 +103,19 @@ Katsumitec focuses on software R&D for the iGaming (online gaming/gambling) indu
 | Business Item | Description |
 |---------------|-------------|
 | White-label System | iGaming white-label/turnkey solutions |
-| Financial System | Financial function development |
+| Financial System | Finance-related feature development |
 | Payment System | Payment integration and processing |
-| Automation Programs | Process automation tools |
+| Automation | Process automation tools |
 
 ---
 
-### AI Technology
+### AI Technology Domain
 
 #### Tomo
 
-**Unit Overview**
+**Unit Introduction**
 
-Tomo is the group's AI startup company, dedicated to developing cross-domain AI solutions, improving efficiency, reducing costs, and creating value. The goal is to become a market-leading AI solutions provider.
+Tomo is the group's AI startup, dedicated to developing cross-domain AI solutions, improving efficiency, reducing costs, creating value, with the goal of becoming a market-leading AI solutions provider.
 
 **Main Responsibilities**
 1. Develop AI recruitment system (AI HR)
@@ -127,22 +127,22 @@ Tomo is the group's AI startup company, dedicated to developing cross-domain AI 
 | Business Item | Stage | Description |
 |---------------|-------|-------------|
 | AI HR | MVP | Intelligent talent recruitment and management |
-| AI SRE | PoC | AI-driven system stability and operational efficiency |
+| AI SRE | PoC | AI-driven system reliability and operational efficiency |
 | AI Dealer | Prototype | Digital dealer for entertainment and gaming industry |
 
 ---
 
-### Gaming Industry
+### Gaming Industry Domain
 
 #### Ariel
 
-**Unit Overview**
+**Unit Introduction**
 
 Ariel focuses on game publishing and distribution, bringing quality games to market.
 
 **Main Responsibilities**
 1. Game publishing and distribution
-2. Game operations and promotion
+2. Game operation and promotion
 
 **Notable Published Games**
 - RO (Ragnarok Online)
@@ -152,37 +152,37 @@ Ariel focuses on game publishing and distribution, bringing quality games to mar
 
 #### Kaiyin Information
 
-**Unit Overview**
+**Unit Introduction**
 
-Kaiyin Information focuses on digital game points sales services, providing instant point card purchase services via mobile devices.
+Kaiyin Information focuses on digital game point card sales services, providing instant point card purchase services via mobile devices.
 
 **Main Responsibilities**
-1. Digital points card sales
+1. Digital point card sales
 2. Virtual goods e-commerce
 
 **Main Business Items**
 
 | Business Item | Description |
 |---------------|-------------|
-| Digital Cards | Virtual points cards for game top-up |
+| Digital Cards | Virtual point cards for game top-up |
 
 ---
 
-### FinTech
+### FinTech Domain
 
 #### Yu Yang Digital
 
-**Unit Overview**
+**Unit Introduction**
 
-Yu Yang Digital is a FinTech startup company, focusing on providing cross-border small-amount remittance services for migrant workers.
+Yu Yang Digital is a FinTech startup focusing on providing cross-border small remittance services for migrant workers.
 
 **Main Responsibilities**
-1. Migrant worker cross-border small-amount remittance services
+1. Migrant worker cross-border small remittance services
 2. E-commerce services
 
 **Target Customers**
 - Migrant workers
-- Providing convenient, fast, and low-cost remittance services
+- Providing convenient, fast, low-cost remittance services
 
 ---
 

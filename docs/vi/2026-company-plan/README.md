@@ -2,19 +2,19 @@
 
 ## Mô Tả Tài Liệu
 
-Thư mục này chứa kế hoạch tổng thể công ty và các tài liệu liên quan cho năm 2026.
+Thư mục này chứa kế hoạch tổng thể và các tài liệu liên quan của công ty cho năm 2026.
 
 ## Danh Sách Tài Liệu
 
-| Tài liệu | Mô tả |
+| Tài Liệu | Mô Tả |
 |----------|-------|
-| [goals.vi.md](goals.vi.md) | Mục tiêu năm |
-| [strategy.vi.md](strategy.vi.md) | Hoạch định chiến lược |
-| [budget.vi.md](budget.vi.md) | Phân bổ ngân sách & Kế hoạch tài chính |
-| [timeline.vi.md](timeline.vi.md) | Lịch trình thực hiện & Mốc quan trọng |
+| [goals.md](goals.md) | Mục tiêu năm |
+| [strategy.md](strategy.md) | Quy hoạch chiến lược và định hướng |
+| [budget.md](budget.md) | Phân bổ ngân sách và quy hoạch tài chính |
+| [timeline.md](timeline.md) | Lịch trình thực hiện và các mốc quan trọng |
 
 ## Lịch Sử Phiên Bản
 
-| Phiên bản | Ngày | Mô tả |
+| Phiên Bản | Ngày | Mô Tả |
 |-----------|------|-------|
-| v0.1 | 2026-02-01 | Phiên bản đầu tiên |
+| v0.1 | 01-02-2026 | Phiên bản đầu tiên |

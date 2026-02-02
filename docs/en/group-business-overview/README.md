@@ -2,20 +2,20 @@
 
 ## Document Description
 
-This folder contains the overall business structure, subsidiary introductions, and organizational relationships of the group.
-This document is centered on Jarvis to help all employees understand the group structure and relationships between companies.
+This folder contains the group's overall business structure, subsidiary introductions, and organizational relationship explanations.
+This document focuses on Jarvis to help all employees understand the group structure and relationships between companies.
 
 ## Document List
 
 | Document | Description |
 |----------|-------------|
-| [subsidiaries.en.md](subsidiaries.en.md) | Subsidiary Introduction |
-| [business-units.en.md](business-units.en.md) | Business Unit Description |
-| [org-relations.en.md](org-relations.en.md) | Organization Chart & Relationships |
+| [subsidiaries.md](subsidiaries.md) | Subsidiary introductions |
+| [business-units.md](business-units.md) | Business unit descriptions |
+| [org-relations.md](org-relations.md) | Organization relationship diagram |
 
 ---
 
-## Group Overview
+## Group Introduction
 
 ### Group Name
 
@@ -26,7 +26,7 @@ This document is centered on Jarvis to help all employees understand the group s
 ```
 Unicorn International Investment Co., Ltd. (Holding Company)
     │
-    ├── Siraya (Cloud/CDN/Security Services)
+    ├── Siraya (Cloud/CDN/Security Provider)
     │
     ├── Jarvis (Software Development) ← You are here
     │
@@ -38,7 +38,7 @@ Unicorn International Investment Co., Ltd. (Holding Company)
     │
     ├── Yu Yang Digital (FinTech)
     │
-    └── Kaiyin Information (Digital Points Sales)
+    └── Kaiyin Information (Digital Point Card Sales)
 ```
 
 ### Group Companies Overview
@@ -47,12 +47,12 @@ Unicorn International Investment Co., Ltd. (Holding Company)
 |---------|----------|---------------|
 | **Unicorn International Investment** | Holding Company | Investment Management |
 | **Siraya** | Cloud/CDN/Security Provider | Compute, CDN, Security, Streaming |
-| **Jarvis** | Software Development | Customer Portal, Anti-Hijacking Products |
+| **Jarvis** | Software Development | Customer Portal, Anti-Hijacking Product |
 | **Katsumitec** | iGaming R&D | White-label, Finance, Payment, Automation |
 | **Tomo** | AI Startup | AI HR, AI SRE, AI Dealer |
 | **Ariel** | Game Publishing | RO, One Punch Man, etc. |
 | **Yu Yang Digital** | FinTech | Migrant Worker Cross-border Remittance |
-| **Kaiyin Information** | Digital Points Sales | Game Virtual Points Cards |
+| **Kaiyin Information** | Digital Point Card Sales | Game Virtual Point Cards |
 
 ---
 

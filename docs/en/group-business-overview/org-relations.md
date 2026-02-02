@@ -1,22 +1,24 @@
-# Organization Chart & Relationships
+# Organization Relationship Diagram
 
-## Group Organization Chart
+## Group Organization Structure
 
 ```
-                    ┌─────────────────────────────────────┐
-                    │   Unicorn International Investment  │
-                    │          (Holding Company)          │
-                    └──────────────────┬──────────────────┘
-                                       │
-        ┌──────────┬──────────┬────────┴────────┬──────────┬──────────┬──────────┐
-        │          │          │                 │          │          │          │
-        ▼          ▼          ▼                 ▼          ▼          ▼          ▼
-   ┌─────────┐ ┌─────────┐ ┌─────────┐    ┌─────────┐ ┌─────────┐ ┌─────────┐ ┌─────────┐
-   │ Siraya  │ │ Jarvis  │ │Katsumi- │    │  Tomo   │ │  Ariel  │ │Yu Yang  │ │ Kaiyin  │
-   │         │ │ ← You   │ │  tec    │    │         │ │         │ │ Digital │ │  Info   │
-   │  Cloud  │ │are here │ │ iGaming │    │   AI    │ │  Game   │ │ FinTech │ │ Points  │
-   │Services │ │         │ │   R&D   │    │ Startup │ │Publish  │ │         │ │  Sales  │
-   └─────────┘ └─────────┘ └─────────┘    └─────────┘ └─────────┘ └─────────┘ └─────────┘
+                         ┌─────────────────────────────┐
+                         │  Unicorn International      │
+                         │  Investment Co., Ltd.       │
+                         │    (Holding Company)        │
+                         │    Group: 27+ companies     │
+                         └──────────────┬──────────────┘
+                                        │
+    ┌──────────┬──────────┬─────────────┼─────────────┬──────────┬──────────┬──────────┐
+    │          │          │             │             │          │          │          │
+    ▼          ▼          ▼             ▼             ▼          ▼          ▼          ▼
+┌────────┐ ┌────────┐ ┌────────┐   ┌────────┐   ┌────────┐ ┌────────┐ ┌────────┐ ┌────────┐
+│Siraya  │ │Jarvis  │ │Katsumi-│   │  Tomo  │   │Sky-Net │ │ Ariel  │ │Yu Yang │ │Kaiyin  │
+│        │ │← You   │ │  tec   │   │        │   │Digital │ │        │ │Digital │ │Info    │
+│ Cloud  │ │  are   │ │iGaming │   │   AI   │   │  Tech  │ │  Game  │ │FinTech │ │Point   │
+│Services│ │  here  │ │        │   │        │   │        │ │Publish │ │        │ │Cards   │
+└────────┘ └────────┘ └────────┘   └────────┘   └────────┘ └────────┘ └────────┘ └────────┘
 ```
 
 ---
@@ -25,65 +27,109 @@
 
 ### Relationship Overview
 
-| Partner Company | Collaboration Content | Period |
-|-----------------|----------------------|--------|
-| **Siraya** | Customer Portal Management System, Anti-Hijacking Products | **Current Main Business** |
-| **Katsumitec** | Telegram Native Products, ClickHouse Big Data Research, Payment Channel Integration | Past (When Jarvis was founded) |
-| **Tomo** | AI HR Product Demo → Future potential collaboration for Vietnam market customization R&D | Future Plan |
-| Ariel | No direct collaboration | — |
-| Yu Yang Digital | No direct collaboration | — |
-| Kaiyin Information | No direct collaboration | — |
+| Partner | Collaboration Content | Period |
+|---------|----------------------|--------|
+| **Siraya** | Customer Portal System, Anti-Hijacking Product | **Current Main Business** |
+| **Katsumitec** | Investor + Past Collaboration (Telegram, ClickHouse, Payment) | Ongoing |
+| **Sky-Net Digital** | ClickHouse Big Data Service → GC Project (Third-party Game Integration) | Current |
+| **Tomo** | AI HR Product Demo → Future Vietnam Market Collaboration | Future Plan |
+| Ariel | No Direct Collaboration | — |
+| Yu Yang Digital | No Direct Collaboration | — |
+| Kaiyin Information | No Direct Collaboration | — |
 
-### Jarvis Development History
+### Jarvis Development Journey
 
 ```
 2023 Founded ─────────────────> Now (2026) ─────────────────> End of 2026 Target
-     
-[Katsumitec Collaboration]     [Siraya Dedicated Dev]         [Independent R&D Company]
- • Telegram Products            • Customer Portal System       • 15-20 people scale
- • ClickHouse Research          • Anti-Hijacking Product       • Dev + PM + Admin
- • Payment Channel Integration  • 6 person team                • Tomo AI HR Collaboration
+
+[Katsumitec Collaboration]     [Siraya + Sky-Net]            [Independent R&D Company]
+ • Telegram Product             • Customer Portal              • 15-person team
+ • ClickHouse Research          • Anti-Hijacking Product       • Dev+PM+Admin
+ • Payment Integration          • GC Project Big Data          • Product Revenue Capability
 ```
 
 ---
 
-## Business Relationship Description
+## Funding Relationships
+
+### Jarvis Funding Structure
+
+```
+Katsumitec (Investor)
+    │
+    │ Investment + Loss Coverage
+    ▼
+Jarvis (Software Development)
+    │
+    │ Provides Development Services
+    ▼
+Siraya (Cloud Service Provider)
+    │
+    │ Pays Salary + 10% Service Fee
+    ▼
+Jarvis Revenue
+```
+
+**Note:**
+- Jarvis revenue mainly comes from Siraya service fees
+- Losses are fully absorbed by Katsumitec (investor)
+- Target break-even by 2027 Q2
+
+---
+
+## Business Relationship Descriptions
 
 ### Jarvis & Siraya Relationship
 
 ```
 Siraya (Cloud/CDN/Security Provider)
     │
-    │ Commissioned Development
+    │ Commission Development + Pay Service Fee
     ▼
 Jarvis (Software Development)
     │
-    ├── Customer Portal Management System
-    │   └── Integrate cloud services, CDN, data monitoring, account management
+    ├── Customer Portal System
+    │   └── Integrated cloud services, CDN, data monitoring, account management
     │
     └── Anti-Hijacking Product
-        └── Anti-Hijacking Solution
+        └── Anti-Hijacking Solution (Launched end of 2025)
 ```
 
-**Description:** Jarvis's main business is developing products for Siraya, serving as Siraya's core R&D team.
+**Note:** Jarvis's main business is developing products for Siraya, serving as Siraya's core R&D team.
 
 ---
 
-### Jarvis & Katsumitec Relationship (Past)
+### Jarvis & Katsumitec Relationship
 
 ```
 Katsumitec (iGaming R&D)
     │
-    │ Past Collaboration
+    ├── Investor: Fully absorbs Jarvis losses
+    │
+    └── Past Collaboration
+        ├── Telegram Native Product Development
+        ├── ClickHouse Big Data Research
+        └── Payment Integration
+```
+
+**Note:** Katsumitec is Jarvis's investor. When Jarvis was first founded, it helped Katsumitec develop products.
+
+---
+
+### Jarvis & Sky-Net Digital Relationship
+
+```
+Sky-Net Digital (Tech Solutions)
+    │
+    │ Current Collaboration
     ▼
 Jarvis (Software Development)
     │
-    ├── Telegram Native Product Development
-    ├── ClickHouse Big Data Research
-    └── Payment Channel Integration
+    └── ClickHouse Big Data Service
+        └── Applied to GC Project (Third-party Game Integration)
 ```
 
-**Description:** When Jarvis was founded, it collaborated with Katsumitec to help develop Telegram-related products, big data research, and payment system integration.
+**Note:** Jarvis's ClickHouse big data service is applied to Sky-Net Digital's GC project.
 
 ---
 
@@ -96,12 +142,12 @@ Tomo (AI Startup)
     ▼
 Jarvis (Software Development)
     │
-    └── AI HR Vietnam Market Expansion
-        ├── Leverage Jarvis's local Vietnam advantage
+    └── AI HR Vietnam Market Rollout
+        ├── Leverage Jarvis's Vietnam local advantage
         └── Customization R&D Collaboration
 ```
 
-**Description:** Tomo has demonstrated AI HR product to Jarvis. In the future, they may leverage Jarvis's Vietnam market advantage to collaborate on AI HR expansion and customization R&D.
+**Note:** Tomo has demonstrated AI HR product to Jarvis, with potential future collaboration to roll out to Vietnam market.
 
 ---
 
@@ -111,41 +157,42 @@ Jarvis (Software Development)
 
 ```
 Katsumitec ──────> Ariel ──────> Kaiyin Information
-(Platform R&D)    (Game Publish)  (Points Sales)
-    │                 │                 │
-    └─────────────────┴─────────────────┘
-                      │
-                      ▼
-               Siraya Provides
-            Cloud/CDN/Security Services
+(Platform R&D)    (Game Publish) (Point Card Sales)
+    │               │               │
+    └───────────────┴───────────────┘
+                    │
+                    ▼
+              Siraya Provides
+           Cloud/CDN/Security Services
 ```
 
-### Technical Support Relationships
+### Technical Service Relationships
 
 ```
-                 Siraya
-            (Cloud Provider)
+              Siraya + Sky-Net
+           (Cloud/Tech Service Providers)
                    │
        ┌───────────┼───────────┐
        │           │           │
        ▼           ▼           ▼
-  Katsumitec     Ariel      Other Clients
+   Katsumitec    Ariel      Other Clients
    (iGaming)   (Game Publish)
 ```
 
 ---
 
-## Geographic Distribution
+## Company Geographic Distribution
 
 | Company | Location |
 |---------|----------|
+| Siraya | Singapore, Vietnam, Malaysia, Shenzhen |
 | Jarvis | Hanoi, Vietnam |
-| Katsumitec | — |
-| Siraya | — |
-| Tomo | — |
+| Katsumitec | Taiwan |
+| Tomo | Taiwan |
+| Sky-Net Digital | Taiwan |
 | Ariel | Taiwan |
-| Yu Yang Digital | — |
-| Kaiyin Information | — |
+| Yu Yang Digital | Taiwan |
+| Kaiyin Information | Taiwan |
 
 ---
 

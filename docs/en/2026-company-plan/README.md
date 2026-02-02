@@ -2,16 +2,16 @@
 
 ## Document Description
 
-This folder contains the overall company plan and related documents for 2026.
+This folder contains the company's overall plan and related documents for 2026.
 
 ## Document List
 
 | Document | Description |
 |----------|-------------|
-| [goals.en.md](goals.en.md) | Annual Goals |
-| [strategy.en.md](strategy.en.md) | Strategic Planning |
-| [budget.en.md](budget.en.md) | Budget Allocation & Financial Planning |
-| [timeline.en.md](timeline.en.md) | Execution Timeline & Milestones |
+| [goals.md](goals.md) | Annual goals |
+| [strategy.md](strategy.md) | Strategic planning and direction |
+| [budget.md](budget.md) | Budget allocation and financial planning |
+| [timeline.md](timeline.md) | Execution timeline and milestones |
 
 ## Version History
 
