@@ -218,11 +218,29 @@
 
 ## Meeting Schedule
 
+### Internal Meetings
+
 | Meeting Type | Frequency | Participants | Purpose |
 |--------------|-----------|--------------|---------|
 | Weekly | Every week | All | Progress sync |
 | Monthly Review | Every month | Leads | Goal tracking |
 | Quarterly Review | Every quarter | Ryan + Leads | Strategy adjustment |
+
+### Management Communication
+
+| Frequency | Content | Participants |
+|-----------|---------|--------------|
+| Monthly | Tech Lead report to Ryan | Tech Lead + Ryan |
+| Year-end | Next year plan presentation | Ryan → All |
+| As needed | Admin coordinates meetings | Admin + Related staff |
+
+### Cross-Border Exchanges
+
+| # | Timeline | Description |
+|---|----------|-------------|
+| 1st | End of Q1 | Kickoff exchange |
+| 2nd | Q3 | Project collaboration exchange |
+| 3rd | Before Q4 Year-end | **Year-end Celebration Party** 🎉 |
 
 ---
 

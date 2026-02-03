@@ -79,7 +79,22 @@ Doanh thu Jarvis
 
 ## Mô Tả Quan Hệ Kinh Doanh
 
-### Quan Hệ Jarvis & Siraya
+### Sự Khác Biệt Định Vị Jarvis & Siraya
+
+Jarvis là **công ty R&D độc lập tại Việt Nam**, không phải công ty con của Siraya.
+
+| Khía cạnh | Jarvis | Siraya |
+|-----------|--------|--------|
+| Giai đoạn | Startup | Trưởng thành (~5 năm) |
+| Định vị | Công ty R&D độc lập | Đại lý Kinh doanh/Bán hàng |
+| Định hướng | Công nghệ/R&D | Kinh doanh/Thị trường |
+| Phong cách quản lý | Linh hoạt, Phẳng | Thể chế hóa, Quy trình |
+| Lợi thế nguồn lực | Năng lực R&D | Nguồn lực thị trường |
+| Phạm vi dịch vụ | Nhiều công ty trong tập đoàn | Tập trung kinh doanh riêng |
+
+**Bối cảnh hợp tác:** Jarvis và Siraya thuộc cùng tập đoàn, ban đầu thiếu nguồn lực nên bổ trợ lẫn nhau.
+
+### Hợp Tác Hiện Tại Jarvis & Siraya
 
 ```
 Siraya (Nhà cung cấp Cloud/CDN/Bảo mật)
@@ -95,7 +110,15 @@ Jarvis (Phát triển Phần mềm)
         └── Anti-Hijacking Solution (Ra mắt cuối 2025)
 ```
 
-**Ghi chú:** Kinh doanh chính của Jarvis là phát triển sản phẩm cho Siraya, đóng vai trò đội R&D cốt lõi của Siraya.
+### Kế Hoạch Tech Team Siraya
+
+Siraya đang lên kế hoạch thành lập đội Tech riêng vào 2026, nhưng đội này sẽ là **trung tâm R&D nội bộ** phục vụ độc quyền cho Siraya, không xử lý nhu cầu R&D ngoài Siraya.
+
+### Mô Hình Hợp Tác Tương Lai
+
+Khi Siraya có đội ngũ riêng, các dự án hợp tác Jarvis-Siraya hiện tại sẽ:
+- Chuyển sang **mô hình bảo trì outsource**
+- Hoặc **chuyển giao cho đội R&D Siraya** vào thời điểm nào đó trong tương lai
 
 ---
 

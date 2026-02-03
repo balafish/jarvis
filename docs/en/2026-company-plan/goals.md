@@ -85,6 +85,24 @@ We need not just a manager, but a leader with an **entrepreneurial mindset**:
 - **Leadership & Integration**: Excellent leadership, able to integrate cross-departmental resources
 - **Forward Thinking**: Insight into future trends, leading the team to breakthroughs
 
+#### Organization Structure & Reporting
+
+Tech Lead **reports directly to Ryan**, accountable to "clients".
+
+```
+Ryan (Jarvis Head)
+    │
+    └── Tech Lead (Strategy, Team Management)
+            │
+            └── Development Team
+
+--- Dotted Line (Client Side) ---
+
+Luan (Siraya / Client)
+    │
+    └── Requirements Window, Technical Liaison
+```
+
 #### Expansion Plan
 
 | Quarter | New Hires | Total | Focus |

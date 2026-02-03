@@ -79,7 +79,22 @@ Jarvis Revenue
 
 ## Business Relationship Descriptions
 
-### Jarvis & Siraya Relationship
+### Jarvis & Siraya Positioning Differences
+
+Jarvis is an **independent Vietnamese R&D company**, not a subsidiary of Siraya.
+
+| Aspect | Jarvis | Siraya |
+|--------|--------|--------|
+| Company Stage | Startup | Mature (~5 years) |
+| Position | Independent R&D Company | Business/Sales Agency |
+| Orientation | Technology/R&D Driven | Business/Market Driven |
+| Management Style | Flexible, Flat | Institutionalized, Process-oriented |
+| Resource Advantage | R&D Capability | Market Resources |
+| Service Scope | Multiple Group Companies | Focus on Own Business |
+
+**Collaboration Background:** Jarvis and Siraya belong to the same group, initially lacking resources, so they complemented each other.
+
+### Jarvis & Siraya Current Collaboration
 
 ```
 Siraya (Cloud/CDN/Security Provider)
@@ -95,7 +110,15 @@ Jarvis (Software Development)
         └── Anti-Hijacking Solution (Launched end of 2025)
 ```
 
-**Note:** Jarvis's main business is developing products for Siraya, serving as Siraya's core R&D team.
+### Siraya Tech Team Planning
+
+Siraya is planning its own Tech team in 2026, but this team will be an **internal R&D center** exclusively serving Siraya, not handling any R&D needs outside of Siraya.
+
+### Future Collaboration Model
+
+When Siraya has its own team, existing Jarvis-Siraya collaborative projects will:
+- Transition to **outsourced maintenance model**
+- Or be **transferred to Siraya's R&D team** at some point in the future
 
 ---
 

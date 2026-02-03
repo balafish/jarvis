@@ -85,6 +85,24 @@ Chúng ta cần không chỉ người quản lý, mà là người lãnh đạo 
 - **Lãnh Đạo & Tích Hợp**: Khả năng lãnh đạo xuất sắc, tích hợp nguồn lực đa phòng ban
 - **Tư Duy Tiên Phong**: Nhìn thấy xu hướng tương lai, dẫn dắt đội ngũ đột phá
 
+#### Cấu Trúc Tổ Chức & Báo Cáo
+
+Tech Lead **báo cáo trực tiếp cho Ryan**, chịu trách nhiệm với "khách hàng".
+
+```
+Ryan (Người đứng đầu Jarvis)
+    │
+    └── Tech Lead (Chiến lược, Quản lý đội ngũ)
+            │
+            └── Đội ngũ Phát triển
+
+--- Đường nét đứt (Phía khách hàng) ---
+
+Luan (Siraya / Khách hàng)
+    │
+    └── Cửa sổ yêu cầu, Liên lạc kỹ thuật
+```
+
 #### Kế Hoạch Mở Rộng
 
 | Quý | Tuyển Mới | Tổng | Trọng Tâm |

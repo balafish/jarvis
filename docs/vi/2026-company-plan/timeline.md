@@ -218,11 +218,29 @@
 
 ## Lịch Họp
 
+### Họp Nội Bộ
+
 | Loại Họp | Tần Suất | Người Tham Gia | Mục Đích |
 |----------|----------|----------------|----------|
 | Hàng tuần | Mỗi tuần | Tất cả | Đồng bộ tiến độ |
 | Đánh giá tháng | Mỗi tháng | Quản lý | Theo dõi mục tiêu |
 | Đánh giá quý | Mỗi quý | Ryan + Quản lý | Điều chỉnh chiến lược |
+
+### Giao Tiếp Quản Lý
+
+| Tần Suất | Nội Dung | Người Tham Gia |
+|----------|----------|----------------|
+| Hàng tháng | Tech Lead báo cáo Ryan | Tech Lead + Ryan |
+| Cuối năm | Trình bày kế hoạch năm sau | Ryan → Tất cả |
+| Khi cần | Hành chính điều phối họp | Hành chính + Nhân viên liên quan |
+
+### Giao Lưu Xuyên Quốc Gia
+
+| # | Thời Gian | Mô Tả |
+|---|-----------|-------|
+| 1 | Cuối Q1 | Khởi động giao lưu |
+| 2 | Q3 | Giao lưu hợp tác dự án |
+| 3 | Trước cuối Q4 | **Tiệc Tất Niên** 🎉 |
 
 ---
 
