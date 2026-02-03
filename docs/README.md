@@ -20,7 +20,8 @@ docs/
 │   │   ├── goals.md
 │   │   ├── strategy.md
 │   │   ├── budget.md
-│   │   └── timeline.md
+│   │   ├── timeline.md
+│   │   └── qa.md
 │   ├── group-business-overview/ # 集團業務概覽
 │   │   ├── README.md
 │   │   ├── subsidiaries.md
@@ -59,6 +60,8 @@ docs/
 |----------|------|
 | 2026 Company Plan | [en/2026-company-plan/](en/2026-company-plan/) |
 | Group Business Overview | [en/group-business-overview/](en/group-business-overview/) |
+| Company Culture | [en/company-culture.md](en/company-culture.md) |
+| About the Principal | [en/about-ryan.md](en/about-ryan.md) |
 
 ### Tiếng Việt
 
@@ -66,3 +69,5 @@ docs/
 |----------|----------|
 | Kế hoạch 2026 | [vi/2026-company-plan/](vi/2026-company-plan/) |
 | Tổng quan tập đoàn | [vi/group-business-overview/](vi/group-business-overview/) |
+| Văn hóa công ty | [vi/company-culture.md](vi/company-culture.md) |
+| Giới thiệu người đứng đầu | [vi/about-ryan.md](vi/about-ryan.md) |
