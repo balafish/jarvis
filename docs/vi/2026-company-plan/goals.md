@@ -84,10 +84,19 @@ Chúng ta cần không chỉ người quản lý, mà là người lãnh đạo 
 
 ### 3. Mục Tiêu Sản Phẩm
 
+#### Dự Án Hiện Tại (Duy Trì Đến Cuối Năm)
+
+| Sản Phẩm | Khách Hàng | Mục Tiêu 2026 |
+|----------|------------|---------------|
+| **Hệ Thống Customer Portal** | Siraya | Phát triển và bảo trì liên tục, tối ưu tính năng, phục vụ cả năm |
+| **Sản Phẩm Anti-Hijacking** | Siraya | Tối ưu liên tục, tính năng mới, tạo doanh thu, bảo trì cả năm |
+
+> Hai dự án này là hoạt động kinh doanh cốt lõi của Jarvis, tiếp tục phát triển và bảo trì đến cuối năm 2026, đảm bảo chất lượng dịch vụ và sức cạnh tranh sản phẩm của Siraya.
+
+#### Dự Án Mới
+
 | Sản Phẩm | Mục Tiêu 2026 |
 |----------|---------------|
-| **Sản Phẩm Anti-Hijacking** | Tối ưu liên tục, tính năng mới, tạo doanh thu |
-| **Hệ Thống Customer Portal** | Phát triển liên tục, phục vụ Siraya |
 | **TOMO AI HR** | Q2 bản địa hóa, Q3 bán ra ngoài |
 
 ---

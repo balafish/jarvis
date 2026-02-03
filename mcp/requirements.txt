@@ -1,0 +1,9 @@
+# MCP 與圖片產生相關依賴
+# 安裝：python -m venv .venv && .venv/bin/pip install -r requirements.txt
+
+# 圖片 MCP（DALL-E）
+mcp>=1.0
+openai>=1.0
+
+# Gemini 批量產圖（generate_images_gemini.py）
+google-genai>=1.60

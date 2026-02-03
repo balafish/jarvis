@@ -1,0 +1,21 @@
+{
+  "mcpServers": {
+    "image-generator": {
+      "command": "/bin/zsh",
+      "args": [
+        "-c",
+        "source ~/.zshrc 2>/dev/null; exec /Users/max/jarvis/mcp/.venv/bin/python /Users/max/jarvis/mcp/image_server.py"
+      ],
+      "env": {
+        "GOOGLE_API_KEY": "YOUR_GOOGLE_API_KEY"
+      }
+    },
+    "2slides": {
+      "command": "npx",
+      "args": ["-y", "2slides-mcp"],
+      "env": {
+        "API_KEY": "YOUR_2SLIDES_API_KEY"
+      }
+    }
+  }
+}

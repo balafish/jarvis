@@ -84,10 +84,19 @@ We need not just a manager, but a leader with an **entrepreneurial mindset**:
 
 ### 3. Product Goals
 
+#### Existing Projects (Ongoing until Year-End)
+
+| Product | Client | 2026 Target |
+|---------|--------|-------------|
+| **Customer Portal System** | Siraya | Continuous development and maintenance, feature optimization, year-round service |
+| **Anti-Hijacking Product** | Siraya | Continuous optimization, new features, revenue generation, year-round maintenance |
+
+> These two projects are Jarvis's core business, continuing development and maintenance through the end of 2026, ensuring Siraya's service quality and product competitiveness.
+
+#### New Projects
+
 | Product | 2026 Target |
 |---------|-------------|
-| **Anti-Hijacking Product** | Continuous optimization, new features, generate revenue |
-| **Customer Portal System** | Continuous development, serve Siraya |
 | **TOMO AI HR** | Q2 localization, Q3 external sales |
 
 ---

@@ -110,6 +110,7 @@ docs/
 | 我要離開 | 更新筆記 + 推送 + 摘要 |
 | 我回來了 | 讀取筆記 + 回報進度 |
 | 檢查校正 | 全面檢查文件品質 |
+| 執行摘要圖模式 | 啟動圖片生成設定（Imagen Ultra） |
 
 ---
 
@@ -160,6 +161,134 @@ docs/
 3. **保持簡潔**：討論時精簡回覆
 4. **及時儲存**：重要進度推送 Git
 5. **尊重決策**：用戶說不改就不改
+
+---
+
+## 產生摘要圖模式
+
+用於生成投影片風格的摘要圖片，包含完整文字內容。
+
+### 啟動方式
+
+```
+用戶：執行摘要圖模式
+```
+
+### 工具與模型設定
+
+| 設定項目 | 值 |
+|---------|-----|
+| API | Google Gemini Imagen |
+| 模型 | `imagen-4.0-ultra-generate-001` |
+| 環境變數 | `GOOGLE_API_KEY` |
+| SDK | `google-genai` |
+| 輸出目錄 | `~/jarvis/images/` |
+
+### 圖片生成參數
+
+```python
+client.models.generate_images(
+    model="imagen-4.0-ultra-generate-001",
+    prompt=prompt,
+    config=types.GenerateImagesConfig(
+        number_of_images=4,      # 每張生成 4 個變體供選擇
+        aspect_ratio="16:9",     # 投影片比例
+    )
+)
+```
+
+### Prompt 結構模板
+
+```
+[風格定義]
+Professional business presentation slide, clean modern design.
+Dark blue (#1a365d) to teal (#0d9488) gradient background.
+Flat-style icons and visual elements. High contrast, white accents.
+Corporate tech startup aesthetic. 16:9 aspect ratio layout.
+
+[內容描述]
+Title: "標題文字"
+描述要呈現的內容重點、文字、數據...
+搭配相關 icon 和視覺元素
+```
+
+### 內容規劃原則
+
+| 原則 | 說明 |
+|------|------|
+| 優先英文 | 英文內容生成品質較佳 |
+| 完整摘要 | 可包含標題、重點、數據 |
+| 搭配視覺 | 文字內容搭配 icon、圖表、流程圖 |
+| 多版選擇 | 每張生成 4 個變體，選最佳版本 |
+
+### 檔案命名規則
+
+```
+{主題}_{序號}_{名稱}_{變體}.png
+
+範例：
+plan_01_vision_a.png
+plan_01_vision_b.png
+group_03_jarvis_c.png
+```
+
+### 執行流程
+
+```
+1. 讀取來源文檔（優先英文版）
+2. 規劃圖片內容（標題 + 重點 + 視覺元素）
+3. 確認規劃後執行生成
+4. 每張生成 4 個變體
+5. 用戶選擇最佳版本
+```
+
+### MCP Server 設定
+
+配置 `~/.cursor/mcp.json`：
+
+```json
+{
+  "mcpServers": {
+    "image-generator": {
+      "command": "/bin/zsh",
+      "args": ["-c", "source ~/.zshrc && /Users/max/jarvis/mcp/.venv/bin/python /Users/max/jarvis/mcp/image_server.py"]
+    },
+    "2slides": {
+      "url": "https://2slides.com/api/mcp?apikey=YOUR_API_KEY"
+    }
+  }
+}
+```
+
+### 2slides MCP 工具
+
+用於生成專業 PPT/投影片，文字 100% 準確。
+
+| 工具 | 用途 |
+|------|------|
+| `slides_generate` | 根據內容生成投影片 |
+| `slides_create_like_this` | 根據參考圖片生成類似風格 |
+| `themes_search` | 搜尋投影片模板 |
+| `jobs_get` | 查詢生成進度 |
+
+**使用範例：**
+```json
+{
+  "themeId": "st-xxx",
+  "userInput": "2026 Company Plan summary",
+  "responseLanguage": "English",
+  "mode": "async"
+}
+```
+
+### 常見問題處理
+
+| 問題 | 解決方案 |
+|------|---------|
+| 文字拼寫錯誤 | 生成多版本選擇，或後製修正 |
+| 模型找不到 | 用 `client.models.list()` 查詢可用模型 |
+| API Key 無效 | 確認 `GOOGLE_API_KEY` 環境變數 |
+| 排版不如預期 | 調整 prompt 描述，多生成幾版 |
 
 ---
 
