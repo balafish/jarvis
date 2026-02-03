@@ -12,6 +12,7 @@ This folder contains the company's overall plan and related documents for 2026.
 | [strategy.md](strategy.md) | Strategic planning and direction |
 | [budget.md](budget.md) | Budget allocation and financial planning |
 | [timeline.md](timeline.md) | Execution timeline and milestones |
+| [qa.md](qa.md) | Frequently asked questions |
 
 ## Version History
 

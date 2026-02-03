@@ -12,6 +12,7 @@
 | [strategy.md](strategy.md) | 策略規劃與方向 |
 | [budget.md](budget.md) | 預算配置與財務規劃 |
 | [timeline.md](timeline.md) | 執行時程與里程碑 |
+| [qa.md](qa.md) | 常見問題與解答 |
 
 ## 版本紀錄
 

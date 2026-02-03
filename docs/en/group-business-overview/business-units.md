@@ -72,7 +72,7 @@ Jarvis is the group's software R&D company, located in Hanoi, Vietnam, currently
 3. Provide software R&D services
 
 **Organization Structure**
-- Current headcount: ~6 people
+- Current headcount: ~8 people
 - Target headcount: 15-20 people (by end of 2026)
 - Departments: Development, Project Management, Administration
 

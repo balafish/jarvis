@@ -12,6 +12,7 @@ Thư mục này chứa kế hoạch tổng thể và các tài liệu liên quan
 | [strategy.md](strategy.md) | Quy hoạch chiến lược và định hướng |
 | [budget.md](budget.md) | Phân bổ ngân sách và quy hoạch tài chính |
 | [timeline.md](timeline.md) | Lịch trình thực hiện và các mốc quan trọng |
+| [qa.md](qa.md) | Câu hỏi thường gặp |
 
 ## Lịch Sử Phiên Bản
 

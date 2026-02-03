@@ -72,7 +72,7 @@ Jarvis là công ty R&D phần mềm của tập đoàn, đặt tại Hà Nội,
 3. Cung cấp dịch vụ R&D phần mềm
 
 **Cơ Cấu Tổ Chức**
-- Số người hiện tại: ~6 người
+- Số người hiện tại: ~8 người
 - Số người mục tiêu: 15-20 người (cuối năm 2026)
 - Các phòng ban: Phát triển, Quản lý dự án, Hành chính
 
