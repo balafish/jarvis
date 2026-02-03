@@ -328,8 +328,29 @@ group_03_jarvis_c.png
 2. 搜尋合適的模板風格（themes_search）
 3. 規劃投影片架構（頁數、每頁重點）
 4. 確認後執行生成（slides_generate）
-5. 等待生成完成，提供下載連結
+5. 等待生成完成
+6. 自動下載到 ~/jarvis/slides/ 目錄
+7. 提供本地檔案路徑
 ```
+
+### 投影片儲存目錄
+
+```
+~/jarvis/slides/
+```
+
+**命名規則：**
+```
+{主題}-{日期}.pptx
+或
+{描述性名稱}.pptx
+
+範例：
+jarvis-2026-all-topics.pptx
+company-culture-20260203.pptx
+```
+
+**重要：生成投影片後，必須自動下載到此目錄**
 
 ### slides_generate 參數
 
