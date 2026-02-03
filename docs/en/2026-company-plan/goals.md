@@ -18,7 +18,12 @@ This document represents our shared direction and commitment.
 
 ---
 
-## Core Philosophy
+## Core Philosophy & Values
+
+> We believe an excellent tech company must embrace the future while staying true to its people.
+> Here are the eight core beliefs that drive Jarvis forward:
+
+### Technology-Driven
 
 | Philosophy | Description |
 |------------|-------------|
@@ -26,6 +31,15 @@ This document represents our shared direction and commitment.
 | **Lean Team** | Small headcount, maximized capability |
 | **AI-Native Talent** | Cultivate next-generation talent who can collaborate with AI |
 | **Full AI Integration** | AI embedded in every aspect from development to management |
+
+### People-First
+
+| Value | Description |
+|-------|-------------|
+| **Transparent Communication** | Direct, honest, and transparent information flow |
+| **Collaboration** | Mutual support and strong teamwork |
+| **Win-Win & Sharing** | Fair sharing of results and co-creation of value |
+| **Family** | We are not just colleagues; we are a Family |
 
 ---
 

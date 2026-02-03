@@ -18,7 +18,12 @@ Tài liệu này thể hiện định hướng và cam kết chung của chúng 
 
 ---
 
-## Triết Lý Cốt Lõi
+## Triết Lý & Giá Trị Cốt Lõi
+
+> Chúng tôi tin rằng một công ty công nghệ xuất sắc phải đón nhận tương lai đồng thời giữ vững tinh thần nhân văn.
+> Đây là tám niềm tin cốt lõi dẫn dắt Jarvis tiến về phía trước:
+
+### Dẫn Dắt Bởi Công Nghệ | Technology-Driven
 
 | Triết Lý | Mô Tả |
 |----------|-------|
@@ -26,6 +31,15 @@ Tài liệu này thể hiện định hướng và cam kết chung của chúng 
 | **Đội Ngũ Tinh Gọn** | Số lượng ít, năng lực tối đa |
 | **Nhân Tài AI-Native** | Đào tạo thế hệ mới có thể hợp tác với AI |
 | **Tích Hợp AI Toàn Diện** | AI trong mọi khía cạnh từ phát triển đến quản lý |
+
+### Lấy Con Người Làm Trọng Tâm | People-First
+
+| Giá Trị | Mô Tả |
+|---------|-------|
+| **Giao Tiếp Minh Bạch** | Thông tin trực tiếp, trung thực và minh bạch |
+| **Hợp Tác** | Hỗ trợ lẫn nhau và tinh thần đồng đội mạnh mẽ |
+| **Cùng Thắng & Chia Sẻ** | Chia sẻ công bằng kết quả và đồng sáng tạo giá trị |
+| **Gia Đình** | Chúng ta không chỉ là đồng nghiệp; chúng ta là Gia Đình |
 
 ---
 
