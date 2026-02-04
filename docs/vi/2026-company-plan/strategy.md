@@ -31,7 +31,7 @@ Là đội ngũ tinh gọn dẫn dắt bởi AI, cung cấp dịch vụ R&D ph�
 
 **Kế hoạch hành động:**
 1. Tối ưu sản phẩm anti-hijacking, phát triển tính năng mới
-2. Đàm phán mô hình hoa hồng với Siraya (5-10%)
+2. Đàm phán mô hình hoa hồng với Siraya
 3. Mục tiêu 50 khách hàng
 
 **Kết quả mong đợi:** Thiết lập nguồn doanh thu sản phẩm ổn định

@@ -51,19 +51,19 @@ This document represents our shared direction and commitment.
 
 | Item | Target |
 |------|--------|
-| Annual Revenue Target | **57.8 billion VND** (~$220,000 USD / 7 million TWD) |
-| Baseline Comparison | 2x of 2025 total costs |
+| Annual Revenue Target | **50-60 billion VND** (~$200-250K USD) |
+| Baseline Comparison | ~2x of 2025 total costs |
 | Break-even | 2027 Q2 |
 
 #### Revenue Sources
 
 | Source | Description | Estimated Revenue |
 |--------|-------------|-------------------|
-| Siraya Service Fee | Existing partnership, salary + 10% | Ongoing |
-| Anti-Hijacking Commission | Target 50 customers, 5-10% commission | $12,500-50,000 USD/month |
-| Product Maintenance Fee | Fixed monthly fee | 50-100K TWD/month |
-| TOMO AI HR Project | Localization development fee | ~$6,000 USD |
-| Sky-Net GC Project | Third-party game integration, 100+ games | ~$50,000+ USD |
+| Siraya Service Fee | Existing partnership, salary + service fee | Ongoing |
+| Anti-Hijacking Commission | Target 50 customers, per contract terms | Per contract |
+| Product Maintenance Fee | Fixed monthly fee | Fixed monthly |
+| TOMO AI HR Project | Localization development fee | Thousands USD |
+| Sky-Net GC Project | Third-party game integration, 100+ games | Tens of thousands USD |
 
 ---
 
@@ -205,7 +205,7 @@ In 2026, at least **3 cross-border in-person exchanges**:
 
 | Metric | Target | Timeline | Measurement |
 |--------|--------|----------|-------------|
-| Annual Revenue | 57.8 billion VND | Full Year | Financial Reports |
+| Annual Revenue | 50-60 billion VND | Full Year | Financial Reports |
 | Team Size | 15 people | Q4 | Year-end count |
 | Technical Lead | 1 person | Q1 | Hiring records |
 | Anti-Hijacking Customers | 50 | Q4 | Siraya sales data |

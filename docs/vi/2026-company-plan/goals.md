@@ -51,19 +51,19 @@ Tài liệu này thể hiện định hướng và cam kết chung của chúng 
 
 | Hạng Mục | Mục Tiêu |
 |----------|----------|
-| Doanh Thu Năm | **57.8 tỷ VND** (~$220,000 USD / 7 triệu TWD) |
-| So Với Cơ Sở | Gấp 2 lần chi phí 2025 |
+| Doanh Thu Năm | **50-60 tỷ VND** (~$200-250K USD) |
+| So Với Cơ Sở | ~Gấp 2 lần chi phí 2025 |
 | Hòa Vốn | Q2/2027 |
 
 #### Nguồn Doanh Thu
 
 | Nguồn | Mô Tả | Doanh Thu Ước Tính |
 |-------|-------|-------------------|
-| Phí Dịch Vụ Siraya | Hợp tác hiện tại, lương + 10% | Liên tục |
-| Hoa Hồng Anti-Hijacking | Mục tiêu 50 khách hàng, hoa hồng 5-10% | $12,500-50,000 USD/tháng |
-| Phí Bảo Trì Sản Phẩm | Phí cố định hàng tháng | 50-100K TWD/tháng |
-| Dự Án TOMO AI HR | Phí phát triển bản địa hóa | ~$6,000 USD |
-| Dự Án Sky-Net GC | Tích hợp game bên thứ ba, 100+ game | ~$50,000+ USD |
+| Phí Dịch Vụ Siraya | Hợp tác hiện tại, lương + phí dịch vụ | Liên tục |
+| Hoa Hồng Anti-Hijacking | Mục tiêu 50 khách hàng, theo điều khoản | Theo hợp đồng |
+| Phí Bảo Trì Sản Phẩm | Phí cố định hàng tháng | Cố định hàng tháng |
+| Dự Án TOMO AI HR | Phí phát triển bản địa hóa | Vài nghìn USD |
+| Dự Án Sky-Net GC | Tích hợp game bên thứ ba, 100+ game | Hàng chục nghìn USD |
 
 ---
 
@@ -205,7 +205,7 @@ Năm 2026, ít nhất **3 lần giao lưu trực tiếp xuyên biên giới**:
 
 | Chỉ Số | Mục Tiêu | Thời Gian | Đo Lường |
 |--------|----------|-----------|----------|
-| Doanh Thu Năm | 57.8 tỷ VND | Cả Năm | Báo cáo tài chính |
+| Doanh Thu Năm | 50-60 tỷ VND | Cả Năm | Báo cáo tài chính |
 | Quy Mô Đội Ngũ | 15 người | Q4 | Thống kê cuối năm |
 | Technical Lead | 1 người | Q1 | Hồ sơ tuyển dụng |
 | Khách Hàng Anti-Hijacking | 50 | Q4 | Dữ liệu bán hàng Siraya |

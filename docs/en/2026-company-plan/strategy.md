@@ -31,7 +31,7 @@ As an AI-driven lean team, provide high-quality software R&D services to the gro
 
 **Action Plans:**
 1. Optimize anti-hijacking product, develop new features
-2. Negotiate commission model with Siraya (5-10%)
+2. Negotiate commission model with Siraya
 3. Target 50 customers
 
 **Expected Outcome:** Establish stable product revenue stream
