@@ -27,16 +27,21 @@ docs/
 │   │   ├── subsidiaries.md
 │   │   ├── business-units.md
 │   │   └── org-relations.md
+│   ├── hr/                        # 人力資源
+│   │   └── recruitment/
+│   │       └── technical-lead.md
 │   ├── company-culture.md       # 公司文化
 │   └── about-ryan.md            # 負責人介紹
 │
 ├── en/                          # English
 │   ├── 2026-company-plan/
-│   └── group-business-overview/
+│   ├── group-business-overview/
+│   └── hr/recruitment/
 │
 ├── vi/                          # Tiếng Việt
 │   ├── 2026-company-plan/
-│   └── group-business-overview/
+│   ├── group-business-overview/
+│   └── hr/recruitment/
 │
 └── discussion-notes.md          # 討論筆記（內部）
 ```
@@ -53,6 +58,7 @@ docs/
 | 集團業務概覽 | [zh/group-business-overview/](zh/group-business-overview/) |
 | 公司文化 | [zh/company-culture.md](zh/company-culture.md) |
 | 負責人介紹 | [zh/about-ryan.md](zh/about-ryan.md) |
+| 招聘 - 技術主管 | [zh/hr/recruitment/technical-lead.md](zh/hr/recruitment/technical-lead.md) |
 
 ### English
 
@@ -62,6 +68,7 @@ docs/
 | Group Business Overview | [en/group-business-overview/](en/group-business-overview/) |
 | Company Culture | [en/company-culture.md](en/company-culture.md) |
 | About the Principal | [en/about-ryan.md](en/about-ryan.md) |
+| Recruitment - Technical Lead | [en/hr/recruitment/technical-lead.md](en/hr/recruitment/technical-lead.md) |
 
 ### Tiếng Việt
 
@@ -71,3 +78,4 @@ docs/
 | Tổng quan tập đoàn | [vi/group-business-overview/](vi/group-business-overview/) |
 | Văn hóa công ty | [vi/company-culture.md](vi/company-culture.md) |
 | Giới thiệu người đứng đầu | [vi/about-ryan.md](vi/about-ryan.md) |
+| Tuyển dụng - Trưởng nhóm kỹ thuật | [vi/hr/recruitment/technical-lead.md](vi/hr/recruitment/technical-lead.md) |
