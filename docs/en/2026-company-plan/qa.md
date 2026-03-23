@@ -61,7 +61,7 @@ What are Jarvis's future plans? Including scope of work, timeline, direction, an
 
 ### Financial Goals
 
-- Annual Revenue: 57.8 billion VND (~$220,000 USD)
+- Annual Revenue: 50-60 billion VND ($200-250K USD)
 - Break-even: 2027 Q2
 
 ### Direction

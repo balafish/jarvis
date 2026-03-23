@@ -28,20 +28,29 @@ docs/
 │   │   ├── business-units.md
 │   │   └── org-relations.md
 │   ├── hr/                        # 人力資源
-│   │   └── recruitment/
-│   │       └── technical-lead.md
+│   │   ├── recruitment/
+│   │   │   └── technical-lead.md
+│   │   ├── onboarding/
+│   │   │   └── company-strategy-briefing-nam.md
+│   │   └── cv/                    # 履歷與面試資料
+│   │       ├── Tran Hoai Nam/
+│   │       └── Đặng Văn Diện/
 │   ├── company-culture.md       # 公司文化
 │   └── about-ryan.md            # 負責人介紹
 │
 ├── en/                          # English
 │   ├── 2026-company-plan/
 │   ├── group-business-overview/
-│   └── hr/recruitment/
+│   └── hr/
+│       ├── recruitment/
+│       └── onboarding/
 │
 ├── vi/                          # Tiếng Việt
 │   ├── 2026-company-plan/
 │   ├── group-business-overview/
-│   └── hr/recruitment/
+│   └── hr/
+│       ├── recruitment/
+│       └── onboarding/
 │
 └── discussion-notes.md          # 討論筆記（內部）
 ```
@@ -59,6 +68,7 @@ docs/
 | 公司文化 | [zh/company-culture.md](zh/company-culture.md) |
 | 負責人介紹 | [zh/about-ryan.md](zh/about-ryan.md) |
 | 招聘 - 技術主管 | [zh/hr/recruitment/technical-lead.md](zh/hr/recruitment/technical-lead.md) |
+| 入職簡報 - Nam | [zh/hr/onboarding/company-strategy-briefing-nam.md](zh/hr/onboarding/company-strategy-briefing-nam.md) |
 
 ### English
 
@@ -69,6 +79,7 @@ docs/
 | Company Culture | [en/company-culture.md](en/company-culture.md) |
 | About the Principal | [en/about-ryan.md](en/about-ryan.md) |
 | Recruitment - Technical Lead | [en/hr/recruitment/technical-lead.md](en/hr/recruitment/technical-lead.md) |
+| Onboarding Briefing - Nam | [en/hr/onboarding/company-strategy-briefing-nam.md](en/hr/onboarding/company-strategy-briefing-nam.md) |
 
 ### Tiếng Việt
 
@@ -79,3 +90,4 @@ docs/
 | Văn hóa công ty | [vi/company-culture.md](vi/company-culture.md) |
 | Giới thiệu người đứng đầu | [vi/about-ryan.md](vi/about-ryan.md) |
 | Tuyển dụng - Trưởng nhóm kỹ thuật | [vi/hr/recruitment/technical-lead.md](vi/hr/recruitment/technical-lead.md) |
+| Briefing nhập chức - Nam | [vi/hr/onboarding/company-strategy-briefing-nam.md](vi/hr/onboarding/company-strategy-briefing-nam.md) |

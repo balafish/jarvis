@@ -41,4 +41,4 @@ Thông qua đầu tư của Katsumitec vào Jarvis, hỗ trợ phát triển đ�
 
 ---
 
-*Cập nhật lần cuối: 01-02-2026*
+*Cập nhật lần cuối: 2026-02-01*

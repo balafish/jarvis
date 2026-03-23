@@ -18,4 +18,4 @@ Thư mục này chứa kế hoạch tổng thể và các tài liệu liên quan
 
 | Phiên Bản | Ngày | Mô Tả |
 |-----------|------|-------|
-| v0.1 | 01-02-2026 | Phiên bản đầu tiên |
+| v0.1 | 2026-02-01 | Phiên bản đầu tiên |

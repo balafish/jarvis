@@ -61,7 +61,7 @@ Kế hoạch tương lai của Jarvis là gì? Bao gồm phạm vi công việc,
 
 ### Mục Tiêu Tài Chính
 
-- Doanh thu Năm: 57.8 tỷ VND (~$220,000 USD)
+- Doanh thu Năm: 50-60 tỷ VND ($200-250K USD)
 - Hòa vốn: Q2/2027
 
 ### Hướng Đi
@@ -204,4 +204,4 @@ Siraya là công ty kinh doanh, hoàn toàn định hướng kinh doanh và th�
 
 ---
 
-*Cập nhật lần cuối: 03-02-2026*
+*Cập nhật lần cuối: 2026-02-03*

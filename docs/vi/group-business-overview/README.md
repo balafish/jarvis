@@ -63,5 +63,5 @@ Công Ty TNHH Đầu Tư Quốc Tế Unicorn (Công Ty Mẹ)
 
 | Phiên Bản | Ngày | Mô Tả |
 |-----------|------|-------|
-| v0.1 | 01-02-2026 | Phiên bản đầu tiên |
-| v0.2 | 01-02-2026 | Thêm cấu trúc tập đoàn và thông tin công ty |
+| v0.1 | 2026-02-01 | Phiên bản đầu tiên |
+| v0.2 | 2026-02-01 | Thêm cấu trúc tập đoàn và thông tin công ty |

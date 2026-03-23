@@ -98,4 +98,4 @@ Là đội ngũ tinh gọn dẫn dắt bởi AI, cung cấp dịch vụ R&D ph�
 
 ---
 
-*Cập nhật lần cuối: 01-02-2026*
+*Cập nhật lần cuối: 2026-02-01*

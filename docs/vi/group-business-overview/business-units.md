@@ -73,7 +73,7 @@ Jarvis là công ty R&D phần mềm của tập đoàn, đặt tại Hà Nội,
 
 **Cơ Cấu Tổ Chức**
 - Số người hiện tại: ~8 người
-- Số người mục tiêu: 15-20 người (cuối năm 2026)
+- Số người mục tiêu: 15 người (cuối năm 2026)
 - Các phòng ban: Phát triển, Quản lý dự án, Hành chính
 
 **Các Hạng Mục Kinh Doanh Chính**
@@ -186,4 +186,4 @@ Yu Yang Digital là startup FinTech tập trung vào cung cấp dịch vụ chuy
 
 ---
 
-*Cập nhật lần cuối: 01-02-2026*
+*Cập nhật lần cuối: 2026-02-01*

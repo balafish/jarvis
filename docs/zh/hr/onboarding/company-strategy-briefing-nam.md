@@ -1,4 +1,4 @@
-# Company Strategy & Direction — Induction Briefing
+# 公司策略與方向 — 入職簡報
 
 > **對象：** Tran Hoai Nam（Tech Lead）
 > **主講：** Ryan
