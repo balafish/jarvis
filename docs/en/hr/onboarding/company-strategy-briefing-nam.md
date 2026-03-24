@@ -48,7 +48,7 @@ Jarvis is an **independent R&D company based in Vietnam**, part of an internatio
 
 As an AI-driven lean team, deliver high-quality software R&D services to the group while developing revenue-generating products, achieving **break-even by Q2 2027**.
 
-### Eight Core Values
+### TWO Core Values
 
 #### Technology-Driven
 
@@ -66,7 +66,7 @@ As an AI-driven lean team, deliver high-quality software R&D services to the gro
 | **Transparent Communication** | Direct and candid communication, transparent information sharing |
 | **Mutual Support** | Support each other, collaborate as a team |
 | **Shared Success** | Fair sharing of outcomes, co-creating value |
-| **One Family** | We are not just colleagues — we are family |
+| **One Team** | We are not just colleagues — we are a Team |
 
 ---
 
@@ -93,7 +93,7 @@ Siraya is building its own development team in Ho Chi Minh City. The existing pr
 
 > This is a positive transformation — Jarvis will have greater autonomy, focusing on higher-value product development.
 
-### Four Core Strategies
+### 4 Core Strategies
 
 #### Strategy 1: AI-First Development Model
 
