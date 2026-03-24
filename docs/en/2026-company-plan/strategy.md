@@ -2,15 +2,15 @@
 
 ## Vision
 
-> "Become a small but mighty R&D company in Vietnam, aligned with world-leading technical capabilities, pioneering AGI applications"
+> "To become a Vietnam-based R&D company that is **small in size yet mighty in capability**, aligned with world-leading technical expertise, and a **pioneer in AGI applications**."
 
 ## Mission
 
-As an AI-driven lean team, provide high-quality software R&D services to the group, develop revenue-generating products, and achieve break-even by 2027 Q2.
+As an AI-driven lean team, deliver high-quality software R&D services to the group while developing revenue-generating products, achieving **break-even by Q2 2027**.
 
 ---
 
-## Core Strategies
+## 4 Core Strategies
 
 ### Strategy 1: AI-First Development Model
 
