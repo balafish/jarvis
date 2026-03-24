@@ -1,49 +1,34 @@
 # Company Culture & Core Values
 
-## Our Core Values
+### TWO Core Values
 
-### Transparent Communication
-Direct and honest communication, transparent information flow.
-We believe open communication is the foundation of teamwork.
+#### 1. Technology-Driven
 
-### Collaboration
-Mutual support and teamwork.
-No one is an island; we solve problems together.
+| Principle | Description |
+|-----------|-------------|
+| **AI Governance** | Replace traditional human-dependent management with AI to improve decision-making efficiency |
+| **Lean Team** | Minimal headcount, maximized capability |
+| **AI-Native Talent** | Cultivate next-generation talent capable of collaborating with AI |
+| **Fully AI-Driven** | Integrate AI into every aspect, from development to management |
 
-### Win-Win & Sharing
-Fair sharing of results, co-creating value.
-The company's success is everyone's success.
+#### 2. People-First
 
-### Family
-We are not just colleagues; we are family.
-We care for each other and grow together.
+| Value | Description |
+|-------|-------------|
+| **Transparent Communication** | Direct and candid communication, transparent information sharing |
+| **Mutual Support** | Support each other, collaborate as a team |
+| **Shared Success** | Fair sharing of outcomes, co-creating value |
+| **One Team** | We are not just colleagues — we are a Team |
 
 ---
 
-## Our Philosophy
+## Our Culture
 
-### AI Governance
-We embrace the AI era, driving decisions and execution with AI, replacing traditional human-centric management.
-
-### Lean Team
-Small but mighty, maximizing everyone's output through AI.
-
-### AI-Native Talent
-Cultivating next-generation developers who can harness AI, rather than traditional talent stacking.
-
-### Continuous Learning
+#### 1. Collaboration & Inclusivity
+We build fast and win together by embracing diverse perspectives and creating an environment where everyone can contribute and challenge ideas.
+#### 2. Open Communication & Transparency 
+We communicate openly and transparently to move faster, stay aligned, and build trust at every level.
+#### 3. Continuous Learning & Growth
 We embrace AI and every learning opportunity. Technology-driven, never stop improving.
-
----
-
-## Our Spirit
-
-> **Dare to Challenge, Don't Fear Mistakes**
-> No one expects you to be perfect, but we encourage you to create boldly.
-
-> **Teamwork, Grow Together**
-> Support each other, break through together. We don't fear your excellence; we fear you won't dare to fly.
-
----
 
 *Last Updated: 2026-02-01*
