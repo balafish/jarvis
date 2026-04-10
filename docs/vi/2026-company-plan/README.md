@@ -13,6 +13,7 @@ Thư mục này chứa kế hoạch tổng thể và các tài liệu liên quan
 | [budget.md](budget.md) | Phân bổ ngân sách và quy hoạch tài chính |
 | [timeline.md](timeline.md) | Lịch trình thực hiện và các mốc quan trọng |
 | [qa.md](qa.md) | Câu hỏi thường gặp |
+| [jarvis-hire-strategy.md](jarvis-hire-strategy.md) | Chiến lược đột phá thị trường nhân lực Việt Nam |
 
 ## Lịch Sử Phiên Bản
 

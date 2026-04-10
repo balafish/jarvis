@@ -13,6 +13,7 @@
 | [budget.md](budget.md) | 預算配置與財務規劃 |
 | [timeline.md](timeline.md) | 執行時程與里程碑 |
 | [qa.md](qa.md) | 常見問題與解答 |
+| [jarvis-hire-strategy.md](jarvis-hire-strategy.md) | Jarvis Hire 越南人力市場突破策略 |
 
 ## 版本紀錄
 

@@ -13,6 +13,7 @@ This folder contains the company's overall plan and related documents for 2026.
 | [budget.md](budget.md) | Budget allocation and financial planning |
 | [timeline.md](timeline.md) | Execution timeline and milestones |
 | [qa.md](qa.md) | Frequently asked questions |
+| [jarvis-hire-strategy.md](jarvis-hire-strategy.md) | Jarvis Hire Vietnam HR Market Breakthrough Strategy |
 
 ## Version History
 
