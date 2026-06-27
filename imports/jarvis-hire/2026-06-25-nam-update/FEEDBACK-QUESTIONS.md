@@ -1,8 +1,8 @@
 # Feedback to Nam — GTM 落地性追問 / Go-to-Market Executability Questions
 
-> 主題：策略框架很完整，但缺少「first customer 名單」與「冷啟動路徑選擇」
-> Subject: Strategy is solid, but missing the "first customer list" and "cold-start path selection"
-> Chủ đề: Khung chiến lược hoàn chỉnh, nhưng thiếu "danh sách khách hàng đầu tiên" và "lựa chọn lộ trình khởi động"
+> 主題：策略框架很完整，但缺少「first customer 名單」與「落地執行細節」
+> Subject: Strategy is solid, but missing the "first customer list" and "execution details on the ground"
+> Chủ đề: Khung chiến lược hoàn chỉnh, nhưng thiếu "danh sách khách hàng đầu tiên" và "chi tiết triển khai thực tế"
 
 ---
 
@@ -18,46 +18,31 @@ Hi Nam，
 - 有沒有一份「Top 20 目標雇主」名單可以分享？包含公司名、所在工業區、HR 對接人？
 - 如果沒有，**這份名單什麼時候會出來？由誰負責？**
 
-### 2. 冷啟動路徑選擇
+### 2. 你需要集團哪方面的資源支援？
 
-我們有三條可能的冷啟動路徑：
+Jarvis 集團橫跨多種商業類型（軟體、製造、物流、教育…），能提供的資源面向很廣。我希望由你**主動、具體**提出 Phase 1 需要集團哪方面的協助，這樣我才能精準對接到對應的資源方：
 
-| 路徑 | 速度 | 成本 | 轉換率 |
-|------|------|------|--------|
-| (A) 社群廣告（FB / LinkedIn / Zalo） | 慢 | 高 | 低 |
-| (B) 集團人脈 / 友商介紹 | 中 | 低 | 高 |
-| (C) 冷觸（DM / InMail / Email） | 中 | 中 | 中 |
+- **客戶引介**：需要哪一類 FDI 雇主？（製造 / 物流 / 電子 / Trading？哪些工業區？）
+- **既有人脈 / BD 通路**：需要集團哪些夥伴或客戶網絡的介紹？
+- **內部 dogfooding**：是否要讓集團某家公司當第一個付費客戶？
+- **其他資源**：資金 / 人力 / 技術 / 品牌背書，哪些是你目前最缺的？
 
-- **你打算以哪一條為主？為什麼？**
-- 三條的預算分配比例？
+→ 請按優先順序列出「最需要的 2–3 項」，越具體越好（例如：「需要 3 家北越製造 FDI 的 HR 引介」），不要只寫「需要集團支持」。
 
-### 3. Jarvis 集團內部資源
-
-- 集團其他公司（Siraya / Tomoaid / Katsumitec 等）**本身有沒有中文招募痛點？**
-- 能不能讓集團內部當 first paying customer？做 dogfooding？
-- 集團的客戶網絡裡，有沒有現成的 FDI 雇主可以引介？
-
-### 4. 首批 3 家 paid pilot 的真實名單
+### 3. 首批 3 家 paid pilot 的真實名單
 
 Phase 1 北極星是「3 個月內 2–3 paid hires」：
 
 - **這 2–3 家潛在客戶現在是誰？**已經接觸了嗎？
 - 還是要等網站上線之後從零開始？
 
-### 5. 通路成本預估
+### 4. 通路成本預估
 
 - 社群廣告（FB / LinkedIn / Zalo）的 **CAC 預估值** 多少？
 - 純人脈 / referral 的 CAC 多少？
 - **預算配比怎麼決定？**
 
-### 6. 執行 ownership 與 deadline
-
-- **誰**負責 BD outreach？
-- **誰**負責社群內容？
-- **誰**負責人脈 mapping？
-- 每個工作流的 weekly milestone 是？
-
-### 7. 失敗應對計畫 / Kill Criteria
+### 5. 失敗應對計畫 / Kill Criteria
 
 deck 寫了「成功路徑」（Phase 1 → 2 → 3 → 4），但**沒寫失敗路徑**：
 
@@ -71,24 +56,20 @@ deck 寫了「成功路徑」（Phase 1 → 2 → 3 → 4），但**沒寫失敗
 
 → 沒有寫失敗應對 → 三個月後容易卡在「不知道是失敗還是還沒成功」的灰色地帶。
 
-### 8. 行銷長期戰略
+### 6. 別忘了行銷的累積
 
-deck 裡的行銷只有「Awareness → Credibility → Micro-Convert」的**戰術 funnel** 跟通路列表，**沒有戰略**：
+團隊還小，行銷不用一次到位、也不用每個面向都顧到。我想提醒的是：**在修正產品的這個階段，別忘了行銷的累積也是未來推向市場的重要工作之一。**
 
-- **行銷預算**：月度多少？分配比例？（廣告 / 內容 / KOL / 活動）
-- **行銷團隊 ownership**：誰寫內容？誰跑廣告？誰做 SEO？誰維護社群？是 Nam 一人扛還是有支援？
-- **SEO / Content Marketing**：越南 HR 搜「中文人才招募」「FDI 招聘 Mandarin」要找到 Jarvis Hire 嗎？有沒有內容計畫？
-- **品牌敘事長期建構**：6–12 個月後品牌信任如何累積？光靠 LinkedIn post 夠不夠？
-- **Content Calendar**：發文頻率？主題輪換？誰審核？
-- **Traffic → Signup → Activation → Paid 轉換率目標**：每一階段量化目標是？
-- **Founder-led marketing**：Nam 自己會不會親自上 LinkedIn / Threads / 越南 HR 圈活動？早期 startup 最便宜的曝光來源
-- **Earned media / PR**：產業媒體報導、KOL 合作、線下活動（如 FDI HR 聚會）的計畫？
-
-→ 行銷不是 campaign，是 compounding。沒有長期計畫，三個月後流量歸零、品牌歸零。
+- 行銷是 compounding（會累積），不是一次性的 campaign — 越早開始累積，上市時越有底氣。
+- 不用追求完整戰略，**先做目前團隊能做到的、或現在就能先累積的東西**，例如：
+  - 邊做產品邊蒐集素材（成功案例、客戶痛點、before/after）
+  - 固定在 LinkedIn / FB 發一點內容，先把帳號與聲量養起來
+  - 把品牌名稱、定位語、基本內容（官網文案、簡介）先備好
+- 重點不是現在要投多少資源，而是**不要等產品做好了才從零開始做行銷**。
 
 ---
 
-期待週一一起討論 — 我認為這 8 個問題釐清後，整套策略才真的能跑起來。
+期待週一一起討論 — 我認為這 6 個問題釐清後，整套策略才真的能跑起來。
 
 Best,
 Ryan
@@ -107,46 +88,31 @@ Thanks for the detailed update — overall strategy framework is solid: position
 - Do we have a "Top 20 target employer" list ready to share? With company name, industrial zone, HR contact?
 - If not, **when will this list be ready, and who owns it?**
 
-### 2. Cold-Start Path Selection
+### 2. What Group Resources Do You Need?
 
-We have three possible cold-start paths:
+The Jarvis Group spans many business types (software, manufacturing, logistics, education…), so the resources we can offer are broad. I'd like **you to proactively and specifically** name what kind of group support you need in Phase 1, so I can connect you to the right resource owner:
 
-| Path | Speed | Cost | Conversion |
-|------|-------|------|------------|
-| (A) Social ads (FB / LinkedIn / Zalo) | Slow | High | Low |
-| (B) Group network / partner intros | Medium | Low | High |
-| (C) Cold outreach (DM / InMail / Email) | Medium | Medium | Medium |
+- **Customer intros**: Which type of FDI employers? (Manufacturing / logistics / electronics / trading? Which industrial zones?)
+- **Existing network / BD channels**: Which group partners or client networks should introduce you?
+- **Internal dogfooding**: Should one group company become our first paying customer?
+- **Other resources**: Capital / people / tech / brand endorsement — which is the biggest gap right now?
 
-- **Which one is the primary play? Why?**
-- What's the budget allocation across the three?
+→ Please list the **top 2–3 you need most, in priority order**, as concretely as possible (e.g., "need intros to 3 manufacturing FDI HRs in Northern Vietnam") — not just "need group support."
 
-### 3. Jarvis Group Internal Resources
-
-- Do other group companies (Siraya / Tomoaid / Katsumitec, etc.) **have Chinese-language hiring pain themselves?**
-- Can the group act as our first paying customer (dogfooding)?
-- Are there FDI employers already in the group's client network we can be introduced to?
-
-### 4. The Real First 3 Paid Pilots
+### 3. The Real First 3 Paid Pilots
 
 Phase 1 North Star = "2–3 paid hires in 3 months":
 
 - **Who are these 2–3 potential customers today?** Have we engaged them?
 - Or are we starting from zero after the site goes live?
 
-### 5. Channel CAC Estimates
+### 4. Channel CAC Estimates
 
 - What's the **estimated CAC** for social ads (FB / LinkedIn / Zalo)?
 - What's the CAC for pure network / referral?
 - **How is the budget split decided?**
 
-### 6. Execution Ownership & Deadlines
-
-- **Who** owns BD outreach?
-- **Who** owns social content?
-- **Who** owns network mapping?
-- What are the weekly milestones for each workstream?
-
-### 7. Failure Response Plan / Kill Criteria
+### 5. Failure Response Plan / Kill Criteria
 
 The deck describes the "success path" (Phase 1 → 2 → 3 → 4), but **not the failure path**:
 
@@ -160,24 +126,20 @@ The deck describes the "success path" (Phase 1 → 2 → 3 → 4), but **not the
 
 → Without a written failure plan, we get stuck in the gray zone of "not sure if this is failing or just not winning yet" after month 3.
 
-### 8. Long-Term Marketing Strategy
+### 6. Don't Forget to Build Marketing Momentum
 
-The marketing section in the deck only describes a **tactical funnel** (Awareness → Credibility → Micro-Convert) and channel list — there's **no long-term strategy**:
+The team is still small — marketing doesn't need to be complete or cover every angle right now. I just want to flag: **while we're in the product-fixing phase, don't forget that accumulating marketing is also an important part of going to market later.**
 
-- **Marketing budget**: monthly amount? Allocation across ads / content / KOL / events?
-- **Marketing team ownership**: Who writes content? Runs ads? Does SEO? Maintains community? Is Nam doing all of this alone, or is there support?
-- **SEO / Content Marketing**: When Vietnamese HRs search "Chinese-language hiring" / "FDI Mandarin recruitment", should Jarvis Hire show up? What's the content plan?
-- **Long-term brand narrative**: How does brand trust compound over 6–12 months? Are LinkedIn posts enough?
-- **Content calendar**: Posting cadence? Topic rotation? Who approves?
-- **Traffic → Signup → Activation → Paid conversion targets**: Quantified target at each stage?
-- **Founder-led marketing**: Will Nam personally show up on LinkedIn / Threads / Vietnamese HR community events? This is the cheapest growth channel for early-stage.
-- **Earned media / PR**: Plans for industry media coverage, KOL collaborations, offline events (e.g., FDI HR meetups)?
-
-→ Marketing isn't a campaign — it compounds. Without a long-term plan, traffic and brand reset to zero after month 3.
+- Marketing compounds — it's not a one-off campaign. The earlier we start accumulating, the stronger our eventual launch.
+- No need for a full strategy. **Just do what the current team can manage, or things we can start accumulating now**, e.g.:
+  - Capture material while building the product (success stories, customer pain points, before/after)
+  - Post a little content regularly on LinkedIn / FB to warm up the accounts and presence
+  - Prepare the brand name, positioning line, and basic content (website copy, intro deck) in advance
+- The point isn't how much to invest now — it's **don't start marketing from zero only after the product is ready.**
 
 ---
 
-Looking forward to Monday — I think once these 8 questions are clarified, the whole strategy becomes truly executable.
+Looking forward to Monday — I think once these 6 questions are clarified, the whole strategy becomes truly executable.
 
 Best,
 Ryan
@@ -196,46 +158,31 @@ Cảm ơn báo cáo chi tiết — khung chiến lược tổng thể rất hoà
 - Có sẵn danh sách "Top 20 khách hàng mục tiêu" để chia sẻ không? Bao gồm tên công ty, khu công nghiệp, và HR liên hệ?
 - Nếu chưa có, **khi nào sẽ có và ai phụ trách?**
 
-### 2. Lựa Chọn Lộ Trình Khởi Động
+### 2. Em Cần Tập Đoàn Hỗ Trợ Về Mặt Nào?
 
-Chúng ta có 3 lộ trình khởi động:
+Tập đoàn Jarvis trải rộng nhiều loại hình kinh doanh (phần mềm, sản xuất, logistics, giáo dục…), nên nguồn lực có thể cung cấp rất đa dạng. Anh muốn **em chủ động nêu cụ thể** mình cần tập đoàn hỗ trợ về mặt nào trong Phase 1, để anh kết nối đúng đầu mối nguồn lực:
 
-| Lộ trình | Tốc độ | Chi phí | Tỷ lệ chuyển đổi |
-|----------|--------|---------|------------------|
-| (A) Quảng cáo cộng đồng (FB / LinkedIn / Zalo) | Chậm | Cao | Thấp |
-| (B) Mạng lưới tập đoàn / giới thiệu từ đối tác | Trung bình | Thấp | Cao |
-| (C) Tiếp cận lạnh (DM / InMail / Email) | Trung bình | Trung bình | Trung bình |
+- **Giới thiệu khách hàng**: Loại nhà tuyển dụng FDI nào? (Sản xuất / logistics / điện tử / trading? Khu công nghiệp nào?)
+- **Mạng lưới / kênh BD sẵn có**: Cần đối tác hoặc mạng lưới khách hàng nào của tập đoàn giới thiệu?
+- **Dogfooding nội bộ**: Có nên để một công ty trong tập đoàn trở thành khách hàng trả phí đầu tiên không?
+- **Nguồn lực khác**: Vốn / nhân sự / công nghệ / bảo chứng thương hiệu — đâu là thứ đang thiếu nhất?
 
-- **Lộ trình nào là chính? Tại sao?**
-- Phân bổ ngân sách giữa 3 lộ trình ra sao?
+→ Hãy liệt kê **2–3 mục cần nhất, theo thứ tự ưu tiên**, càng cụ thể càng tốt (ví dụ: "cần giới thiệu HR của 3 doanh nghiệp FDI sản xuất ở miền Bắc") — đừng chỉ ghi "cần tập đoàn hỗ trợ".
 
-### 3. Nguồn Lực Nội Bộ Của Tập Đoàn Jarvis
-
-- Các công ty khác trong tập đoàn (Siraya / Tomoaid / Katsumitec, v.v.) **có vấn đề tuyển dụng người biết tiếng Trung không?**
-- Có thể để chính tập đoàn trở thành khách hàng trả phí đầu tiên (dogfooding) không?
-- Trong mạng lưới khách hàng của tập đoàn, có nhà tuyển dụng FDI nào có thể được giới thiệu cho mình không?
-
-### 4. Danh Sách Thật Của 3 Khách Hàng Pilot Đầu Tiên
+### 3. Danh Sách Thật Của 3 Khách Hàng Pilot Đầu Tiên
 
 North Star của Phase 1 = "2–3 paid hires trong 3 tháng":
 
 - **2–3 khách hàng tiềm năng này hiện là ai?** Đã tiếp xúc chưa?
 - Hay là bắt đầu từ con số 0 sau khi website đi vào hoạt động?
 
-### 5. Ước Lượng CAC Theo Kênh
+### 4. Ước Lượng CAC Theo Kênh
 
 - CAC ước lượng cho quảng cáo cộng đồng (FB / LinkedIn / Zalo) là bao nhiêu?
 - CAC cho thuần mạng lưới / referral là bao nhiêu?
 - **Phân bổ ngân sách dựa trên cơ sở nào?**
 
-### 6. Phân Công Trách Nhiệm & Deadline
-
-- **Ai** phụ trách BD outreach?
-- **Ai** phụ trách nội dung mạng xã hội?
-- **Ai** phụ trách lập bản đồ mạng lưới (network mapping)?
-- Mục tiêu hằng tuần của từng luồng công việc là gì?
-
-### 7. Kế Hoạch Ứng Phó Khi Thất Bại / Kill Criteria
+### 5. Kế Hoạch Ứng Phó Khi Thất Bại / Kill Criteria
 
 Deck mô tả "lộ trình thành công" (Phase 1 → 2 → 3 → 4), nhưng **không có lộ trình thất bại**:
 
@@ -249,24 +196,20 @@ Deck mô tả "lộ trình thành công" (Phase 1 → 2 → 3 → 4), nhưng **k
 
 → Không có kế hoạch ứng phó thất bại → sau tháng thứ 3 sẽ bị kẹt trong vùng xám "không biết đang thất bại hay chưa thắng".
 
-### 8. Chiến Lược Marketing Dài Hạn
+### 6. Đừng Quên Tích Lũy Marketing
 
-Phần marketing trong deck chỉ mô tả **phễu chiến thuật** (Awareness → Credibility → Micro-Convert) và danh sách kênh — **không có chiến lược dài hạn**:
+Team còn nhỏ — marketing không cần hoàn chỉnh hay bao quát mọi khía cạnh ngay lúc này. Anh chỉ muốn nhắc: **trong giai đoạn chỉnh sửa sản phẩm, đừng quên rằng việc tích lũy marketing cũng là một phần quan trọng để đưa sản phẩm ra thị trường sau này.**
 
-- **Ngân sách marketing**: hằng tháng bao nhiêu? Phân bổ giữa quảng cáo / nội dung / KOL / sự kiện?
-- **Phân công team marketing**: Ai viết nội dung? Ai chạy quảng cáo? Ai làm SEO? Ai duy trì cộng đồng? Một mình Nam làm hay có support?
-- **SEO / Content Marketing**: Khi HR Việt Nam tìm "tuyển dụng tiếng Trung" / "FDI Mandarin recruitment", Jarvis Hire có xuất hiện không? Có kế hoạch nội dung không?
-- **Xây dựng câu chuyện thương hiệu dài hạn**: Niềm tin thương hiệu tích lũy thế nào trong 6–12 tháng? Chỉ LinkedIn post có đủ không?
-- **Content calendar**: Tần suất đăng? Xoay vòng chủ đề? Ai duyệt?
-- **Mục tiêu tỷ lệ chuyển đổi Traffic → Signup → Activation → Paid**: Định lượng từng giai đoạn?
-- **Founder-led marketing**: Nam có đích thân xuất hiện trên LinkedIn / Threads / sự kiện cộng đồng HR Việt Nam không? Đây là kênh tăng trưởng rẻ nhất cho startup giai đoạn đầu.
-- **Earned media / PR**: Kế hoạch báo chí ngành, hợp tác KOL, sự kiện offline (như FDI HR meetup)?
-
-→ Marketing không phải là campaign — nó tích lũy theo thời gian. Không có kế hoạch dài hạn, traffic và brand sẽ reset về 0 sau tháng thứ 3.
+- Marketing tích lũy theo thời gian (compounding) — không phải campaign một lần. Bắt đầu tích lũy càng sớm, lúc ra mắt càng vững.
+- Không cần chiến lược đầy đủ. **Chỉ cần làm những gì team hiện tại làm được, hoặc những thứ có thể tích lũy ngay từ bây giờ**, ví dụ:
+  - Ghi lại tư liệu trong lúc làm sản phẩm (case thành công, pain point khách hàng, before/after)
+  - Đăng một chút nội dung đều đặn trên LinkedIn / FB để nuôi tài khoản và độ nhận diện
+  - Chuẩn bị sẵn tên thương hiệu, câu định vị, nội dung cơ bản (copy website, giới thiệu)
+- Điều quan trọng không phải đầu tư bao nhiêu lúc này — mà là **đừng để đến khi sản phẩm xong mới bắt đầu marketing từ con số 0.**
 
 ---
 
-Mong gặp Nam thứ Hai — anh nghĩ khi 8 câu hỏi này được làm rõ, toàn bộ chiến lược mới thực sự chạy được.
+Mong gặp Nam thứ Hai — anh nghĩ khi 6 câu hỏi này được làm rõ, toàn bộ chiến lược mới thực sự chạy được.
 
 Trân trọng,
 Ryan
