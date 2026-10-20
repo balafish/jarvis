@@ -1,0 +1,148 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap">
+  <style>
+    body { margin: 0; background: #061422; }
+    a { color: #41CCFF; text-decoration: none; }
+    a:hover { color: #8FE2FF; }
+    .sl {
+      position: relative; width: 1280px; height: 720px; overflow: hidden;
+      background:
+        radial-gradient(900px 620px at 78% 12%, rgba(0,184,227,0.20), transparent 62%),
+        radial-gradient(700px 520px at 8% 92%, rgba(0,65,227,0.20), transparent 60%),
+        linear-gradient(155deg, #0A2440 0%, #08182B 52%, #061422 100%);
+      font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+      color: #FFFFFF; box-sizing: border-box;
+    }
+    .mesh { position: absolute; inset: 0; pointer-events: none; }
+    .mesh line { stroke: #41CCFF; stroke-width: 1; opacity: 0.16; }
+    .mesh circle { fill: #41CCFF; opacity: 0.30; }
+    .glow {
+      position: absolute; border-radius: 50%; pointer-events: none;
+      background: radial-gradient(circle, rgba(0,184,227,0.34) 0%, rgba(0,184,227,0) 70%);
+    }
+    .body { position: relative; height: 100%; box-sizing: border-box; padding: 76px 96px; display: flex; flex-direction: column; }
+    .eyebrow {
+      font-family: 'Space Grotesk', 'Helvetica Neue', Arial, sans-serif;
+      font-size: 15px; font-weight: 600; letter-spacing: 0.22em; text-transform: uppercase; color: #41CCFF;
+    }
+    .h1 {
+      font-family: 'Space Grotesk', 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 700; letter-spacing: -0.015em; line-height: 1.04; margin: 0; text-wrap: balance;
+    }
+    .rule { width: 132px; height: 4px; border-radius: 2px; background: linear-gradient(90deg, #00B8E3, #41CCFF); }
+    .sub { color: #9FC4DA; font-weight: 300; }
+    .foot { color: #6E93AC; font-size: 17px; letter-spacing: 0.04em; }
+  </style>
+</helmet>
+<div class="sl">
+  <svg class="mesh" viewBox="0 0 1280 720" fill="none" aria-hidden="true">
+      <line x1="400" y1="81" x2="576" y2="200" />
+      <line x1="400" y1="81" x2="156" y2="54" />
+      <line x1="400" y1="81" x2="128" y2="139" />
+      <line x1="845" y1="18" x2="705" y2="10" />
+      <line x1="845" y1="18" x2="952" y2="190" />
+      <line x1="845" y1="18" x2="829" y2="258" />
+      <line x1="689" y1="253" x2="745" y2="277" />
+      <line x1="689" y1="253" x2="576" y2="200" />
+      <line x1="689" y1="253" x2="829" y2="258" />
+      <line x1="39" y1="366" x2="11" y2="307" />
+      <line x1="39" y1="366" x2="206" y2="425" />
+      <line x1="39" y1="366" x2="41" y2="125" />
+      <line x1="11" y1="307" x2="41" y2="125" />
+      <line x1="11" y1="307" x2="128" y2="139" />
+      <line x1="55" y1="33" x2="41" y2="125" />
+      <line x1="55" y1="33" x2="156" y2="54" />
+      <line x1="55" y1="33" x2="128" y2="139" />
+      <line x1="537" y1="621" x2="674" y2="660" />
+      <line x1="537" y1="621" x2="380" y2="613" />
+      <line x1="537" y1="621" x2="387" y2="428" />
+      <line x1="128" y1="139" x2="41" y2="125" />
+      <line x1="128" y1="139" x2="156" y2="54" />
+      <line x1="813" y1="718" x2="674" y2="660" />
+      <line x1="537" y1="621" x2="813" y2="718" />
+      <line x1="813" y1="718" x2="1040" y2="519" />
+      <line x1="745" y1="277" x2="829" y2="258" />
+      <line x1="745" y1="277" x2="885" y2="302" />
+      <line x1="1288" y1="-3" x2="1293" y2="54" />
+      <line x1="1288" y1="-3" x2="1128" y2="192" />
+      <line x1="1288" y1="-3" x2="952" y2="190" />
+      <line x1="1128" y1="192" x2="952" y2="190" />
+      <line x1="1128" y1="192" x2="1293" y2="54" />
+      <line x1="156" y1="54" x2="41" y2="125" />
+      <line x1="380" y1="613" x2="387" y2="428" />
+      <line x1="380" y1="613" x2="292" y2="420" />
+      <line x1="206" y1="425" x2="292" y2="420" />
+      <line x1="206" y1="425" x2="387" y2="428" />
+      <line x1="829" y1="258" x2="885" y2="302" />
+      <line x1="705" y1="10" x2="576" y2="200" />
+      <line x1="689" y1="253" x2="705" y2="10" />
+      <line x1="885" y1="302" x2="952" y2="190" />
+      <line x1="387" y1="428" x2="292" y2="420" />
+      <line x1="745" y1="277" x2="576" y2="200" />
+      <line x1="885" y1="302" x2="1040" y2="519" />
+      <line x1="829" y1="258" x2="1040" y2="519" />
+      <line x1="380" y1="613" x2="674" y2="660" />
+      <line x1="829" y1="258" x2="952" y2="190" />
+      <line x1="952" y1="190" x2="1293" y2="54" />
+      <circle cx="400" cy="81" r="3.0" />
+      <circle cx="845" cy="18" r="3.9" />
+      <circle cx="689" cy="253" r="2.4" />
+      <circle cx="39" cy="366" r="3.2" />
+      <circle cx="11" cy="307" r="2.1" />
+      <circle cx="55" cy="33" r="3.7" />
+      <circle cx="537" cy="621" r="3.9" />
+      <circle cx="128" cy="139" r="3.4" />
+      <circle cx="813" cy="718" r="4.2" />
+      <circle cx="745" cy="277" r="2.8" />
+      <circle cx="1288" cy="-3" r="3.7" />
+      <circle cx="1128" cy="192" r="3.5" />
+      <circle cx="156" cy="54" r="3.4" />
+      <circle cx="380" cy="613" r="3.1" />
+      <circle cx="206" cy="425" r="4.1" />
+      <circle cx="829" cy="258" r="4.4" />
+      <circle cx="705" cy="10" r="3.2" />
+      <circle cx="41" cy="125" r="3.7" />
+      <circle cx="885" cy="302" r="2.2" />
+      <circle cx="387" cy="428" r="3.8" />
+      <circle cx="576" cy="200" r="3.6" />
+      <circle cx="1040" cy="519" r="4.5" />
+      <circle cx="292" cy="420" r="4.1" />
+      <circle cx="674" cy="660" r="2.7" />
+      <circle cx="952" cy="190" r="3.0" />
+      <circle cx="1293" cy="54" r="3.7" />
+  </svg>
+  <div class="glow" style="width: 620px; height: 620px; right: -190px; top: -130px;"></div>
+  <div style="position: absolute; right: 74px; bottom: 34px; font-family: 'Space Grotesk', 'Helvetica Neue', Arial, sans-serif; font-size: 300px; font-weight: 700; line-height: 0.78; color: rgba(65,204,255,0.07); letter-spacing: -0.04em; pointer-events: none;">D</div>
+  <div class="body" style="justify-content: center; gap: 34px;">
+    <div style="display: flex; flex-direction: column; gap: 16px;">
+      <div class="eyebrow">Growth Marketing Intern</div>
+      <h1 class="h1" style="font-size: 68px;">Pham Thuy Duong</h1>
+      <div class="rule"></div>
+    </div>
+    <div style="display: flex; flex-direction: column; gap: 22px; max-width: 830px;">
+      <div style="display: flex; align-items: flex-start; gap: 20px;">
+        <div style="width: 11px; height: 11px; margin-top: 13px; flex-shrink: 0; border-radius: 50%; background: #00B8E3; box-shadow: 0 0 14px rgba(0,184,227,0.9);"></div>
+        <div style="font-size: 27px; font-weight: 300; line-height: 1.45; color: #DCEDF7;">Started Threads and Facebook from absolute zero</div>
+      </div>
+      <div style="display: flex; align-items: flex-start; gap: 20px;">
+        <div style="width: 11px; height: 11px; margin-top: 13px; flex-shrink: 0; border-radius: 50%; background: #00B8E3; box-shadow: 0 0 14px rgba(0,184,227,0.9);"></div>
+        <div style="font-size: 27px; font-weight: 300; line-height: 1.45; color: #DCEDF7;">Turned posts into real candidate sign-ups</div>
+      </div>
+      <div style="display: flex; align-items: flex-start; gap: 20px;">
+        <div style="width: 11px; height: 11px; margin-top: 13px; flex-shrink: 0; border-radius: 50%; background: #00B8E3; box-shadow: 0 0 14px rgba(0,184,227,0.9);"></div>
+        <div style="font-size: 27px; font-weight: 300; line-height: 1.45; color: #DCEDF7;">Delivered every assigned task, all summer</div>
+      </div>
+    </div>
+  </div>
+</div>
+</x-dc>
+</body>
+</html>

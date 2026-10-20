@@ -19,6 +19,17 @@ Jarvis Hire 實習生的評核紀錄與相關文件。
 | 文件 | 說明 |
 |------|------|
 | [Phase 1 實習生評核報告](phase-1-evaluation.md) | 2026/7/1 – 8/28 評核結果、個人明細、交叉觀察與建議 |
+| [結業典禮 Ryan 講稿](../../../en/hr/interns/phase-1-closing-speech-ryan.md) | 2026-09-09 結業典禮 5 分鐘演講稿（英文 + 中文對照 + 現場提示） |
+| [結業典禮講稿 — 逐句中英對照](phase-1-closing-speech-ryan-bilingual.md) | **上台用**。逐句英中對照、停頓與語速提示、上台前檢查表 |
+
+---
+
+## 投影片
+
+| 投影片 | 說明 |
+|------|------|
+| [Jarvis Internship Closing 2026](https://claude.ai/code/artifact/9f24b0fb-3628-4397-855f-a8330e40563f) | 結業典禮 7 張投影片（Claude Design canvas，可線上編輯與匯出 PNG/PDF） |
+| `slides/internship-closing-2026/` | 投影片原始檔（artboard 與 canvas 設定） |
 
 ---
 
